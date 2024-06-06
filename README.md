@@ -12,3 +12,8 @@ Windows tray to control the script and watch the website status :
          <img src="https://github.com/RaghaniSebastien/HomeAssistantVmMonitoring/assets/73033350/c7de3ea7-142e-4b92-acce-0dd37a3e8f2d" width="350";/>
 
 </div>
+
+<br>
+<br>
+
+This script can be adapted to monitor any vm hosting a certain website by just changing the url and the vm name.
